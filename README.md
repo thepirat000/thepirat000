@@ -1,3 +1,6 @@
-[![thepirat000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepirat000&show_icons=true&include_all_commits=true&theme=buefy&hide=contribs)](https://github.com/thepirat000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepirat000&layout=compact)](https://github.com/thepirat000/audit.net)
+<a href="https://github.com/thepirat000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thepirat000&show_icons=true&include_all_commits=true&theme=buefy&hide=contribs" />
+</a>
+<a href="https://github.com/thepirat000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepirat000&layout=compact" />
+</a>
